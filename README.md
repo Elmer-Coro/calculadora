@@ -11,11 +11,10 @@ Esta es una calculadora simple desarrollada con HTML, CSS y JavaScript. Puedes u
 
 ## Vista Previa
 
-![Vista Previa](https://github.com/Elmer-Coro/calculadora/screenshots/calculadora.jpg)
+![Vista Previa](https://github.com/Elmer-Coro/calculadora/blob/main/screenshots/calculadora.jpg)
 
 ## Link
 
-1. Link:
+[Visitar web](https://elmer-coro.github.io/calculadora/)
 
-   ```bash
-   git clone https://github.com/Elmer-Coro/calculadora.git
+  
